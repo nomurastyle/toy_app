@@ -12,7 +12,7 @@
 
 <p>
   <strong>Context:</strong>
-  <%= @user.id.context %>
+  <%= @user.id %>
 </p>
 
 
